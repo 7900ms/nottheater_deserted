@@ -1,11 +1,9 @@
-
-```
 #!/usr/bin/env bash
 #
 # 1.sh
-# 
+# > chmod +x 1.sh
+# > . 1.sh
+#
 
 echo 'hello'
-```
 
-> chmod +x 1.sh
