@@ -5,3 +5,15 @@ FinderPop 需要关闭 SIP
 
 关闭SIP 10.10.5
 sudo nvram boot-args="debug=0x146 kext-dev-mode=1"
+
+= = = 碎碎念 = = =
+
+相关软件
+proximac
+Finderpop
+Asepsis (.DS_Store pollution)
+
+https://github.com/csujedihy/proximac
+http://asepsis.binaryage.com/#sip
+
+-
