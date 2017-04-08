@@ -1,0 +1,7 @@
+
+关闭 SIP
+
+FinderPop 需要关闭 SIP
+
+关闭SIP 10.10.5
+sudo nvram boot-args="debug=0x146 kext-dev-mode=1"
