@@ -3,3 +3,8 @@
 
 https://www.v2ex.com/t/168280#popbones
 
+救急还是很有用的，毕竟自己记不住系统都有哪些数据库可以重建以及对应的命令。
+
+https://www.v2ex.com/t/228105
+
+-
