@@ -1,0 +1,3 @@
+
+系统图标包
+/System/Library/CoreServices/CoreTypes.bundle/Contents/Resources/
