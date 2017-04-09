@@ -1,4 +1,11 @@
 
 Rime 鼠须管输入法
 
+= = = 碎碎念 = = =
+
+cp -a ~/Library/Rime ~/Library/Rime_ori
+
+鼠须管输入法 傻瓜版配置 - 基于 rime_pro 增强包
+https://segmentfault.com/a/1190000005754706
+
 -
