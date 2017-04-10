@@ -62,4 +62,10 @@ echo "
 }
 #
 
+例6
+
+# nullget
+# > nullget http://speedtest-nyc1.digitalocean.com/10mb.test
+alias nullget="wget -P ~/tmp/$(date +%Y%m%d%H%M%S)"
+
 
