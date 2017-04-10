@@ -1,0 +1,13 @@
+
+flash下载地址
+http://www.adobe.com/software/flash/about/
+
+flash屏蔽
+
+firefox
+FlashDisable
+
+chrome
+
+safari
+
