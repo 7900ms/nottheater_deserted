@@ -9,6 +9,8 @@ pip install speedtest-cli
 
 > speedtest-cli
 
+http://www.speedtest.net/speedtest-servers.php
+
 - - - 
 
 准备
