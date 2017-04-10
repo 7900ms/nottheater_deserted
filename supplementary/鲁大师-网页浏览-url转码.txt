@@ -1,0 +1,7 @@
+
+firefox
+
+中文网址 url
+
+about:config
+network.standard-url.escape-utf8 改为 f
