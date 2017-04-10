@@ -1,0 +1,65 @@
+
+~/.bash_profile
+
+source ~/.bash_profile
+
+= = = 碎碎念 = = =
+
+能在 ~/.bash_profile 写什么东西
+
+例1
+
+#!/usr/bin/env bash
+export PIP_REQUIRE_VIRTUALENV=true
+
+例2
+
+alias fq="export http_proxy='http://localhost:8118' && export https_proxy='https://localhost:8118'"
+
+例3
+
+fq () {
+  export no_proxy="localhost,127.0.0.1,localaddress,.localdomain.com"
+  export http_proxy="http://127.0.0.1:8118" # http代理地址
+  export https_proxy=$http_proxy # https代理地址
+  echo -e "HTTP Proxy on"
+}
+fqs () {
+  unset http_proxy
+  unset https_proxy
+  echo -e "HTTP Proxy off"
+}
+
+alias fqt="curl -I www.google.com.tw"
+
+例4
+
+alias dns="sudo dscacheutil -flushcache && sudo killall -HUP mDNSResponder"
+alias d="dns"
+
+例5
+
+#!/usr/bin/env bash
+#
+#alias t1="echo 't1'"
+alias o1="echo 'o111'"
+# lazygit
+function lazygit() {
+git add .
+git commit -m 'updated: $(date +"%Y-%m-%d %T")'
+git push
+}
+function moo () {
+echo "
+         (__)
+         (oo)
+   /------\/
+  / |    ||
+ *  /\---/\
+    ~~   ~~
+.... Have you mooed today? ...
+"
+}
+#
+
+
