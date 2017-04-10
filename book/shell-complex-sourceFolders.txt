@@ -4,4 +4,4 @@ cat ~/.bash_profile
 for f in $HOME/com/E02/D/Program_Files/usr_paf_iTerm/bash_profile/*; do source $f; done
 ```
 
-这样会 source usr_paf_iTerm/bash_profile 文件夹下的所有文件
+这样会 (source ~/.bash_profile) 等于 (source usr_paf_iTerm/bash_profile 文件夹下的所有文件)
