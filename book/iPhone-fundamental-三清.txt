@@ -5,7 +5,7 @@
 
 ... 参考步骤 ...
 
-查看使用空间 (11.5G)
+查看使用空间 (0G可用)
 
 备份照片到 Google Photos 、屏幕上的 APP
 备份到iCloud
@@ -19,7 +19,7 @@
 三清 (恢复出厂设置)：:
 “设置”>“通用(General)”>“还原(Reset)”>“抹掉所有内容和设置(Erase All Content and Settings)”
 
-查看新的用量 (0G)
+查看新的用量 (11.2G可用)
 当前系统 iOS 9.2.1(13D15)
 关闭 App Store 更新，不下载新的 iOS 系统 (Setting-General-Updates-不要安装10.3.1)
 
