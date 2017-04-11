@@ -30,9 +30,14 @@
 恢复软件
 Set Up as New iPhone 再手动从 App Store 下载需要的东西
 
-恢复联系人和短信
-iCloud账户，登入并恢复。注意不恢复app
+恢复联系人、备忘录
+iCloud账户，登入并恢复。注意不恢复app 。注意 无法恢复短信
 
+恢复短信
+QQ短信助手
+
+恢复照片
+Google Photos
 
 -
 
