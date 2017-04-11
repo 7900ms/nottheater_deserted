@@ -63,3 +63,41 @@ http://speedtest-nyc1.digitalocean.com
 
 
 
+= = = 碎碎念2 = = =
+
+
+网盘的考量
+
+  必须保证是一个 永远不会丢失的账户
+
+  专门用来储物
+
+  tasmanboat # gmail
+
+网盘管理
+
+  网页管理，建 F盘
+
+上传工具 / 软件
+
+  网页上传 or 命令行上传
+  https://github.com/prasmussen/gdrive
+
+  G google drive command upload
+
+上传目录 / 相关目录
+
+  上传文件存放的目录
+  /Users/E02/G/GoogleDrive数据上传/韩国HD-无删减-激情-90分钟.mp4
+  确保传完之后再删除
+
+说明
+
+  上传zip文件 (用keka压缩，没有 MACOSX__ 等杂物)
+
+
+
+-
+
+
+
