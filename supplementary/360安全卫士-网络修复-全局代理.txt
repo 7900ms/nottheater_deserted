@@ -6,7 +6,7 @@
 /supplementary/v2ray全局代理: safari灵,googleDrive 不灵
 
 [2] Proxifier
-(safari灵,googleDrive灵)
+(safari灵,googleDrive灵-登入灵-上传灵)
 ProxifierMac2.15 注册码(注册名任意)
 P427L-9Y552-5433E-8DSR3-58Z68（MAC）
 
