@@ -16,7 +16,8 @@
 “设置”>“通用”>“还原”>“抹掉所有内容和设置”
 
 查看新的用量 (0G)
-关闭 App Store 更新，不下载新的 iOS 系统
+当前系统 iOS 9.2.1(13D15)
+关闭 App Store 更新，不下载新的 iOS 系统 (Setting-General-Updates-不要安装10.3.1)
 
 恢复软件
 
