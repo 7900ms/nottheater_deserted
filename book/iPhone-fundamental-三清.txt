@@ -7,7 +7,7 @@
 备份到iCloud
 
 其他准备工作：
-手机关闭手机密码 TouchID&Passcode
+断开wifi并断开wifi密码，手机关闭手机密码 TouchID&Passcode
 手机关闭 "查找我的iPhone" ，并在网页确认 (登录 iCloud.com - 查找我的 iPhone - 所有设备 - 移除)
 手机注销 iCloud
 重启手机，确认都已注销完毕
@@ -16,6 +16,7 @@
 “设置”>“通用”>“还原”>“抹掉所有内容和设置”
 
 查看新的用量 (0G)
+关闭 App Store 更新，不下载新的 iOS 系统
 
 恢复软件
 
