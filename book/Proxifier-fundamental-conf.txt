@@ -15,7 +15,7 @@ P427L-9Y552-5433E-8DSR3-58Z68（MAC）
 
   Proxies +1080
   Rules +自动添加的的ss-local放最上面
-  Rules +Default覆盖
+  Rules +Default覆盖(Default副本+1080走)
   DNS +Resolve hostnames through proxy
   Advanced-HTTP Proxy +打勾 Enable HTTP proxy servers support
 
