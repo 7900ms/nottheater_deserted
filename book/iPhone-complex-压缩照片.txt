@@ -28,13 +28,13 @@ https://discussions.apple.com/thread/7567327?start=0&tstart=0
 鲁大师-照片-压缩照片
 
 鲁大师-照片-查看照片信息
-100%[1 File Details](https://workflow.is/workflows/a69f01c106da474aaa8c8f91c3fd109e)
+100%[1 workflow File Details](https://workflow.is/workflows/a69f01c106da474aaa8c8f91c3fd109e)
 /supplementary/[1的备选](https://workflow.is/workflows/c0222e9f01e34084b7c7280469cee768)
 /supplementary/[1的备选 Google Snapseed](#)
 /supplementary/[1的备选 Skyjos ViewExif](#)
 
 鲁大师-照片-压缩照片
-100%[1 自己写的workflow](#分辨率不变，文件体积减小)
+100%[1 workflow Compress Image](#自己写的workflow。分辨率不变，文件体积减小)
 /supplementary/[1 Hype Reactor PhotoShrinker](#会改变分辨率，照片原始分辨率 2448x3264，新分辨率 900x1200)
 /supplementary/[1的备选 Shrink My Pictures 付费](#)
 
