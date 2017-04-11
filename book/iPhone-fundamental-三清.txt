@@ -7,8 +7,8 @@
 备份到iCloud
 
 其他准备工作：
-关闭 "查找我的iPhone" ，并确认 (登录 iCloud.com - 查找我的 iPhone - 所有设备 - 移除)
-注销 iCloud
+手机关闭 "查找我的iPhone" ，并在网页确认 (登录 iCloud.com - 查找我的 iPhone - 所有设备 - 移除)
+手机注销 iCloud
 重启手机，确认都已注销完毕
 
 三清 (恢复出厂设置)：:
