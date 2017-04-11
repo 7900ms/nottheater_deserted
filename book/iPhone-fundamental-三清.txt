@@ -23,10 +23,14 @@
 当前系统 iOS 9.2.1(13D15)
 关闭 App Store 更新，不下载新的 iOS 系统 (Setting-General-Updates-不要安装10.3.1)
 
+... 参考步骤 ...
+
+恢复
+
 恢复软件
 Set Up as New iPhone 再手动从 App Store 下载需要的东西
 
-联系人和短信：
+恢复联系人和短信
 iCloud账户，登入并恢复。注意不恢复app
 
 
