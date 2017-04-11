@@ -19,5 +19,6 @@ P427L-9Y552-5433E-8DSR3-58Z68（MAC）
   DNS +Resolve hostnames through proxy
   Advanced-HTTP Proxy +打勾 Enable HTTP proxy servers support
 
+  新软件走代理的配置 放在中间
 
 -
