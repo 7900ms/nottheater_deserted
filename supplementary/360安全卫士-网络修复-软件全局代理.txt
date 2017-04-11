@@ -1,0 +1,9 @@
+
+鲁大师-软件全局代理:
+(google Drive 能上传超过100M)
+
+[1] Cisco IPSec VPN
+/supplementary/ssr全局代理: googleDrive 不灵
+/supplementary/v2ray全局代理: googleDrive 不灵
+/supplementary/Proxifier: googleDrive 登入灵，上传20M灵，上传100M不灵
+
