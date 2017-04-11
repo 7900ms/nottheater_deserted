@@ -1,0 +1,11 @@
+
+压缩照片，不要占用太大空间
+
+压缩照片 查看照片大小
+
+resize photo
+6,5 mb is compressed to 3,5
+the files are compressed, but resolution(分辨率) is the same
+查看照片分辨率
+
+-
