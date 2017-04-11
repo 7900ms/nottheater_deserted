@@ -1,0 +1,11 @@
+
+鲁大师-网页全局代理
+(safari 能上 youtube)
+
+[1]
+ssr全局代理
+/supplementary/v2ray全局代理
+/supplementary/Proxifier全局代理
+/supplementary/VPN
+
+
