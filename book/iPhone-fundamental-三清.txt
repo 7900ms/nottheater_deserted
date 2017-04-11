@@ -26,6 +26,9 @@
 恢复软件
 Set Up as New iPhone 再手动从 App Store 下载需要的东西
 
+联系人和短信：
+iCloud账户，登入并恢复。注意不恢复app
+
 
 -
 
