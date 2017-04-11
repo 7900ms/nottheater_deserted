@@ -1,6 +1,8 @@
 
 Google Drive
 
+关掉 开机自动启动
+
 [360安全卫士-网络修复-软件全局代理](https://github.com/7900ms/nottheater_deserted/blob/master/supplementary/360安全卫士-网络修复-软件全局代理.txt)
 
 
