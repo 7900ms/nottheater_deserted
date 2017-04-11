@@ -8,6 +8,17 @@ resize photo
 the files are compressed, but resolution(分辨率) is the same
 查看照片分辨率
 
+compression 压缩
+文件变小，其他不变
+Original file:
+- Dimensions 4930*3287 (16mp)
+- Horizontal/Vertical resolution: 240 dpi
+- Bit depth: 24
+
 自动化 workflow resize image
 
--
+- -
+
+文件变小 其他不变的 compression
+https://discussions.apple.com/thread/7567327?start=0&tstart=0
+
