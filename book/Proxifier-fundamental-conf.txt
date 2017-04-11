@@ -1,0 +1,23 @@
+
+Proxifier 最大性能
+
+支持：鲁大师-网页全局代理 (safari)
+不支持：鲁大师-软件全局代理 (google drive, 能登入 能上传20M 不能上传超过100M的文件)
+
+
+
+Proxifier 最大性能配置办法
+
+ProxifierMac2.15 注册码(注册名任意)
+P427L-9Y552-5433E-8DSR3-58Z68（MAC）
+
+... 参考配置办法 ...
+
+  Proxies +1080
+  Rules +自动添加的的ss-local放最上面
+  Rules +Default覆盖
+  DNS +Resolve hostnames through proxy
+  Advanced-HTTP Proxy +打勾 Enable HTTP proxy servers support
+
+
+-
