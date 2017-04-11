@@ -24,6 +24,8 @@
 关闭 App Store 更新，不下载新的 iOS 系统 (Setting-General-Updates-不要安装10.3.1)
 
 恢复软件
+Set Up as New iPhone 再手动从 App Store 下载需要的东西
+
 
 -
 
