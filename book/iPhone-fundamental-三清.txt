@@ -3,7 +3,7 @@
 
 查看使用空间
 
-备份照片、屏幕上的 APP
+备份照片到 Google Photos 、屏幕上的 APP
 备份到iCloud
 
 三清
