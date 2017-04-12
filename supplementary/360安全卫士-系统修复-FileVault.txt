@@ -1,0 +1,5 @@
+
+mac 关闭 FileVault
+系统偏好设置 - 安全性与隐私 FileVault
+
+-
