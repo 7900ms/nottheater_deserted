@@ -1,12 +1,82 @@
 
 Parallels Desktop
 
+/supplementary/鲁大师-软件相关-版本支持
 http://download.parallels.com/desktop/v12/docs/en_US/Parallels%20Desktop%20User's%20Guide/33321.htm
 
+/supplementary/鲁大师-软件相关-下载地址
 https://www.youtube.com/watch?v=vv0yqC6MJWI
 https://drive.google.com/drive/folders/0BxFKRNYZVL_iczBJYUVFRndtSU0?usp=sharing
 
 /supplementary/傲游
 播主 https://www.facebook.com/mouseoyang
+
+= = = 碎碎念 = = =
+
+
+下载地址：
+http://www.waitsun.com/parallels-desktop-11-1-2.html
+
+安装说明 ParDes1112.dmg ：
+断网安装
+断网run第一次
+HandOff!切断网络
+(安完后666MB)
+
+G
+parallels mac 用法
+Thin PC .pvm mac
+
+
+= =
+
+http://www.cmsky.com/windows-vmware-image/
+https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/ 虚拟机专用镜像
+
+
+Parallels Desktop 调教
+http://www.jianshu.com/p/7563b59da985
+
+Thin PC
+http://www.feng.com/apple/tutorial/2011-10-15/Parallels_virtual_machines_from_entry_to_the_master_242946.shtml
+
+Thin PC pvm 下载 **
+http://bbs.feng.com/forum.php?mod=viewthread&tid=7056733 # gandh 二楼下载地址
+Win7_Ultimate_x64s_office2013 ：http://pan.baidu.com/s/1pJ1PdPp 提取码：sg7r
+
+===============================================
+
+
+内存
+硬盘
+
+共享文件夹
+
+融合模式
+
+软件：
+输入法
+解压缩软件
+后缀名
+浏览器和去广告(ublock,flash+FlashDisable,tabMixPlus,GoogleSearchLinkFix)
+记事本ST
+
+不安装：
+QQ
+播放器
+PS AI
+
+
+-
+
+保存一份导出的虚拟机
+
+win7 - 未设置时7.1G
+win7 - 设置完大约7.7G,压缩后3.5G
+osx 10.10.5 - 设置完大约10G,压缩后7.7G
+
+
+
+
 
 -
