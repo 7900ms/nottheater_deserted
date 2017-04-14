@@ -11,6 +11,14 @@ https://drive.google.com/drive/folders/0BxFKRNYZVL_iczBJYUVFRndtSU0?usp=sharing
 /supplementary/傲游
 播主 https://www.facebook.com/mouseoyang
 
+
+保存一份导出的虚拟机
+
+win7 - 未设置时7.1G
+win7 - 设置完大约7.7G,压缩后3.5G
+osx 10.10.5 - 未设置大约10G,压缩后7.7G
+fedora24 - 未设置时6G,压缩后2.4G
+
 = = = 碎碎念 = = =
 
 
@@ -69,12 +77,6 @@ PS AI
 
 -
 
-保存一份导出的虚拟机
-
-win7 - 未设置时7.1G
-win7 - 设置完大约7.7G,压缩后3.5G
-osx 10.10.5 - 未设置大约10G,压缩后7.7G
-fedora24 - 未设置时5.1G,压缩后2G
 
 
 
