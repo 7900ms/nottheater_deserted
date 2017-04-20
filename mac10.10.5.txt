@@ -3,6 +3,11 @@
 Safari 8.0.8
 iTunes 12.2.1.16
 
+-
+
+10.11 "El Capitan"
+10.12 "Sierra"
+
 = = = 碎碎念 = = =
 
 关闭 App Store 自动更新
