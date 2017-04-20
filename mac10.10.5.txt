@@ -5,11 +5,17 @@ iTunes 12.2.1.16
 
 -
 
-10.11 "El Capitan"
+10.11 "El Capitan"(有菜单栏隐藏的)
 10.12 "Sierra"
 
 = = = 碎碎念 = = =
 
 关闭 App Store 自动更新
+
+-
+
+特性：
+10.10.5 + Safari 8.0.8 (支持mama计划)
+10.11 "El Capitan"(有菜单栏隐藏的)
 
 -
