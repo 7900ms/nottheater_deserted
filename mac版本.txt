@@ -1,0 +1,16 @@
+
+10.11.6
+16 Aug 2016
+https://github.com/yichengchen/ShadowsocksX-R/issues/6
+
+
+10.12(不推荐)
+16 Aug 2016
+
+10.2.1(不推荐)
+28 Mar 2016
+很卡 增加了上海话听写支持
+
+
+
+
