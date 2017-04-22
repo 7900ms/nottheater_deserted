@@ -1,0 +1,20 @@
+
+360安全卫士-网络修复-VPN
+
+
+vpn Cisco IPSec
+
+新建VPN类型 Cisco IPSec 类型
+
+name:billv
+ServerAddress: 168.235.96.222
+AccountName: billv
+pwd:*
+
+验证设置：
+SharedSecret: ipsec
+GroupName: ipsec
+
+
+
+-
