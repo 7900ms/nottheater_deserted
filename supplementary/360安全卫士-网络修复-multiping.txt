@@ -1,0 +1,26 @@
+
+multiping
+
+= = = 何时 = = =
+
+一次性 ping 很多节点(测速)的时候用
+
+==
+
+python3环境
+  brew install python3
+
+下载multiping
+  git clone https://github.com/eric6356/multiping.git
+
+使用
+
+> ./multiping --host baidu.com sohu.com
+(实时ping，ctrl+c 查看最终结果)
+
+> ./multiping --host-file vultr-hosts.txt
+
+https://www.v2ex.com/t/330656
+https://github.com/eric6356/multiping
+
+
