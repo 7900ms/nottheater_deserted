@@ -15,6 +15,12 @@ Tab Utilities
 
   https://github.com/7900ms/noname/blob/master/TUprefs.txt
 
+鼠标摇杆手势
+
+  Mouse Gestures Suite
+  
+  https://github.com/7900ms/00nottheater_deserted/tree/master/Usage_Manual/PaleMoon
+
 中文网址
 
   https://github.com/7900ms/noname/blob/master/firefox-cn-url.md
