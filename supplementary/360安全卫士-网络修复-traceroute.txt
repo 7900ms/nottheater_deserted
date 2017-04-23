@@ -1,0 +1,5 @@
+
+traceroute
+
+traceroute -m 10 baidu.com
+
