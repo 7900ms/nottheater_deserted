@@ -1,0 +1,27 @@
+
+nullget
+
+测nullget
+> nullget http://speedtest-nyc1.digitalocean.com/10mb.test
+
+是个alias , 简化自
+wget http://speedtest-nyc1.digitalocean.com/10mb.test 有
+curl -o ~/tmp/$(date +%Y%m%d)/$(date +%Y%m%d%H%M%S) --create-dirs http://speedtest-nyc1.digitalocean.com/10mb.test 或
+wget -P ~/tmp/$(date +%Y%m%d%H%M%S) http://speedtest-nyc1.digitalocean.com/10mb.test # 建立文件夹 东西下进去
+
+```
+#!/usr/bin/env bash
+#
+# nullget.sh
+#
+# 例子 curl -o ~/tmp/$(date +%Y%m%d)/$(date +%Y%m%d%H%M%S) --create-dirs http://speedtest-nyc1.digitalocean.com/10mb.test
+# nullget http://speedtest-nyc1.digitalocean.com/10mb.test
+alias nullget1="curl -o ~/tmp/$(date +%Y%m%d)/$(date +%Y%m%d%H%M%S) --create-dirs"
+#
+# 例子 wget -P ~/tmp/$(date +%Y%m%d%H%M%S) http://speedtest-nyc1.digitalocean.com/10mb.test 有
+# nullget http://speedtest-nyc1.digitalocean.com/10mb.test
+alias nullget="wget -P ~/tmp/$(date +%Y%m%d%H%M%S)"
+
+```
+
+https://www.v2ex.com/t/270599
