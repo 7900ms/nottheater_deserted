@@ -4,8 +4,9 @@ iphone itunes 选择固件 (mac电脑按住 option 键 点击检查更新)
 http://www.hisoma.com/539.html
 
 下载：
-iOS 最新版 固件
+iOS 最新版 固件 ipsw ios download
 http://www.iplaysoft.com/item/ios-ipsw-download
+https://ipsw.me/#md5
 
 参考：
 通过 iTunes 手动升级
