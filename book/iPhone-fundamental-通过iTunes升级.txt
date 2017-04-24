@@ -1,5 +1,15 @@
 
 步骤：
+用爱思助手刷机
+~~先尝试通过 iTunes 刷机，再尝试通过 爱思助手 刷机~~
+
+爱思助手(保留固件缓存)
+http://www.i4.cn/
+
+爱思助手刷不好的，iTunes也刷不好
+
+= = = 碎碎念 = = =
+
 iphone itunes 选择固件 (mac电脑按住 option 键 点击检查更新)
 http://www.hisoma.com/539.html
 
