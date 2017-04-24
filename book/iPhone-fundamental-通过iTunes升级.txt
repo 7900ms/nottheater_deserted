@@ -1,14 +1,18 @@
 
-通过 iTunes 手动升级
-http://tech.ifeng.com/a/20160914/44451614_0.shtml
+步骤：
+iphone itunes 选择固件 (按住 option 键 点击检查更新)
+http://www.hisoma.com/539.html
 
+下载：
 iOS 最新版 固件
 http://www.iplaysoft.com/item/ios-ipsw-download
+
+参考：
+通过 iTunes 手动升级
+http://tech.ifeng.com/a/20160914/44451614_0.shtml
 
 白屏恢复与黑屏恢复 (建议白屏恢复)
 https://zhidao.baidu.com/question/162448680.html
 
-iphone itunes 选择固件 (按住 option 键 点击检查更新)
-http://www.hisoma.com/539.html
 
 -
