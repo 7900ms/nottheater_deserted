@@ -44,6 +44,7 @@ http://jingyan.baidu.com/article/03b2f78c74ddb55ea337ae68.html#此处讲的是DF
 2 按住Home键和电源键10秒，屏幕黑掉，松手
 3 等5秒钟
 4 正常按电源键开手机
+结果：手机屏幕上有电源线连接图样
 
 http://jingyan.baidu.com/article/0964eca2653c858285f5363f.html#此处讲的是退出DFU模式
 
