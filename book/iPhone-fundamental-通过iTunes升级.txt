@@ -14,9 +14,9 @@ http://bbs.feng.com/read-htm-tid-10635441.html
 http://bbs.feng.com/read-htm-tid-8801131-page-5.html
 http://bbs.feng.com/read-htm-tid-8930395-page-2.html
 
-= 两种刷机办法的区别 =
+= 3 种刷机办法的区别 =
  
-进入 恢复模式刷机，不彻底；DFU 模式下刷机 彻底 -
+进入 恢复模式刷机，不彻底；DFU 模式下刷机 彻底；iTunes 更新/恢复，仅更新系统而会保留用户文件 -
 http://jingyan.baidu.com/article/49711c6189323dfa451b7c64.html
 
 进入恢复模式的方法(done)
