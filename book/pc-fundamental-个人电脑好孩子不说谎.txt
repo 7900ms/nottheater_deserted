@@ -71,5 +71,8 @@ https://www.zhihu.com/question/55337745/answer/144132560
 https://www.zhihu.com/question/22605825/answer/84366098
 
 以前没，现在没，以后也没。。。Linux上的高质量软件一直就是给server设计的。。。即使考虑desktop也是developer的desktop，跟普通用户的desktop没有一毛钱的关系
+
+深度 deepin
+http://www.jianshu.com/p/e871723f9460
  
 -
