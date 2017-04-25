@@ -28,7 +28,7 @@ http://jingyan.baidu.com/article/49711c6189323dfa451b7c64.html
 
 http://pad.zol.com.cn/350/3508537.html
 
-进入DFU模式的方法(undone)
+进入DFU模式的方法(done)
 0 初始状态:(iTunes用它更新后开机)自动进入了恢复模式；(iTunes用它更新后关机连数据线)自动进入了恢复模式
 1 连数据线到电脑
 2 点‘退出恢复模式
@@ -36,7 +36,7 @@ http://pad.zol.com.cn/350/3508537.html
 2 开机(见白苹果了) 按着开机键
 3 同时按下HOME键
 4 看到黑屏后，松开开机键
-结果：电脑提示进入DFU模式了。(以后再也无法“开机自动进入恢复模式”)
+结果：电脑提示进入DFU模式了。(以后再也无法“开机自动进入恢复模式、连数据线自动进入恢复模式”。此后连数据线是进入电池图标)
 
 http://jingyan.baidu.com/article/03b2f78c74ddb55ea337ae68.html#此处讲的是DFU模式
 http://iphone.tgbus.com/tutorial/use/201505/20150526135317.shtml
