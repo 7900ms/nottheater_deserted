@@ -44,7 +44,8 @@ http://jingyan.baidu.com/article/03b2f78c74ddb55ea337ae68.html#此处讲的是DF
 2 按住HOME键
 3 连数据线到电脑
 4 手机上有数据线图标了
-结果：手机上有数据线图标了
+5 电脑提示进入恢复模式了
+结果：电脑提示进入恢复模式了
 
 http://jingyan.baidu.com/article/0964eca2653c858285f5363f.html#此处讲的是退出DFU模式
 
