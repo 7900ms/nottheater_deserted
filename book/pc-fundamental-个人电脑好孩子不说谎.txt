@@ -69,5 +69,6 @@ mac B型软件需要安装手册,B型软件需要组装手册,B型软件需要�
 Ubuntu明显取得了重大突破啊，我觉得易用程度已经开始到达Windows 95的标准了，每次安装之后要搜攻略的时间已经缩短到了一天。只要他能把功耗降下来，我觉得还是很有前途的，可以取代OSX 。Ubuntu 又没有重写那些命令和软件，哪一个不要搜攻略吗
 https://www.zhihu.com/question/55337745/answer/144132560
 
+以前没，现在没，以后也没。。。Linux上的高质量软件一直就是给server设计的。。。即使考虑desktop也是developer的desktop，跟普通用户的desktop没有一毛钱的关系
  
 -
