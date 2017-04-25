@@ -20,22 +20,40 @@ http://bbs.feng.com/read-htm-tid-8930395-page-2.html
 http://jingyan.baidu.com/article/49711c6189323dfa451b7c64.html
 
 进入恢复模式的方法(done)
-1 拔掉数据线，关机-
-2 按住HOME键-
-3 连接到电脑-
+0 初始状态:电池图标
+1 拔掉数据线，关机
+2 按住HOME键
+3 连接到电脑
 结果：电脑提示进入恢复模式了
 
 http://pad.zol.com.cn/350/3508537.html
 
 进入DFU模式的方法(undone)
+0 初始状态:(iTunes用它更新后开机)自动进入了恢复模式；(iTunes用它更新后关机连数据线)自动进入了恢复模式
 1 连数据线到电脑
-2 开机(见白苹果了)
+2 点‘退出恢复模式
+31-看见电池图标’(数据线还连着电脑)
+2 开机(见白苹果了) 按着开机键
 3 同时按下HOME键
 4 看到黑屏后，松开开机键
 结果：电脑提示进入DFU模式了
 
 http://jingyan.baidu.com/article/03b2f78c74ddb55ea337ae68.html#此处讲的是DFU模式
 http://iphone.tgbus.com/tutorial/use/201505/20150526135317.shtml
+
+
+= 刷机思路： 2次刷机：先iTunes恢复，再DFU模式刷机 =
+
+iTunes恢复 做到的:
+开机后自动进入恢复模式
+ 
+(->恢复模式 说明需要重新刷机哦 --> DFU模式下刷机最彻底，所以选DFU模式 不选 恢复模式下刷机)
+ 
+爱思助手 进入DFU模式刷机:
+进入之前，可以看到电池啦-
+电脑提示进入DFU模式
+刷级之后-
+
 
 
 = = = 碎碎念 = = =
