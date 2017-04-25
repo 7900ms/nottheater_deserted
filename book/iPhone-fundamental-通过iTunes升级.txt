@@ -48,7 +48,13 @@ http://jingyan.baidu.com/article/03b2f78c74ddb55ea337ae68.html#此处讲的是DF
 结果：电脑提示进入恢复模式了
 
 http://jingyan.baidu.com/article/0964eca2653c858285f5363f.html#此处讲的是退出DFU模式
+ 
+= OTA =
 
+如果在OTA过程中出错导致进不了系统，变成恢复模式
+
+  如果在OTA过程中出错导致进不了系统，变成恢复模式，可尝试使用 iTools 1.x 的经典版跳出恢复模式  (iTools 界面左上 工具箱-SHSH管理-恢复模式-选中处于恢复模式的设备-点击上部的"退出恢复模式"按钮
+http://bbs.feng.com/forum.php?mod=viewthread&tid=10877677
 
 = = = 碎碎念 = = =
 
