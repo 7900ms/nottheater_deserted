@@ -38,7 +38,11 @@ http://jingyan.baidu.com/article/03b2f78c74ddb55ea337ae68.html#此处讲的是DF
 2.进入电源线模式(退出DFU模式)
  
 重点：DFU模式不会自己退出
-
+ 
+退出DFU模式的方法
+1 连数据线拔掉
+2 按住Home键和电源键10秒，屏幕黑掉，松手
+3 正常按电源键开手机
 
 
 
