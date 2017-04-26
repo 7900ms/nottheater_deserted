@@ -1,7 +1,7 @@
 
 Proxifier 最大性能
 
-支持：鲁大师-网页全局代理 (safari)
+支持：鲁大师-网页全局代理 (safari, GoogleMusicManagerWithProxifier)
 不支持：鲁大师-软件全局代理 (google drive, 能登入 能上传20M 不能上传超过100M的文件)
 
 
