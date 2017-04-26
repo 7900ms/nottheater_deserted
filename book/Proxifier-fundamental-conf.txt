@@ -21,10 +21,10 @@ http://bbs.feng.com/read-htm-tid-5594745.html
   Rules +自动添加的的ss-local放最上面
   Rules +Default覆盖(Default副本+1080走)
   
-  DNS +Resolve hostnames through proxy
-  Advanced-HTTP Proxy +打勾 Enable HTTP proxy servers support
+  DNS标签 +Resolve hostnames through proxy
+  Advanced标签 - HTTP Proxy 子标签 +打勾 Enable HTTP proxy servers support
 
-  Rules <底部的为保底>
+  Rules标签 <底部的为保底>
 
     (顶部)ss-local(直连)
     (顶部第二位)Localhost(直连)
