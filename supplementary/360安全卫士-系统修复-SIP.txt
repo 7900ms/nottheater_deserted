@@ -6,6 +6,9 @@ FinderPop 需要关闭 SIP
 关闭SIP 10.10.5
 sudo nvram boot-args="debug=0x146 kext-dev-mode=1"
 
+关闭SIP 10.11.5
+Restart -> Press COMMAND + R -> Recovery Mode -> Terminal -> "csrutil disable" - reboot
+
 查看是否关闭了SIP
 CMD+R 开机进入恢复模式
 csrutil status
