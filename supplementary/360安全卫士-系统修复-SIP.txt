@@ -23,4 +23,6 @@ Asepsis (.DS_Store pollution)
 https://github.com/csujedihy/proximac
 http://asepsis.binaryage.com/#sip
 
+https://www.leocode.net/article/index/20.html Mac OSX 10.11 终端出现Operation not permitted, 请关SIP
+
 -
