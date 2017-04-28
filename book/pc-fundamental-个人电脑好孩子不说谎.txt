@@ -78,5 +78,8 @@ http://www.jianshu.com/p/e871723f9460
 操作系统的角度看操作系统的使用 linux
 https://www.v2ex.com/t/227934?p=2
 
-
+-
+footer: 
+必须知道电脑上都安装了什么
+对每一笔软件安装卸载有清晰的记账 是
 -
