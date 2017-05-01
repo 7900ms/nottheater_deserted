@@ -34,4 +34,6 @@ http://bbs.feng.com/read-htm-tid-5594745.html
     Default覆盖(连1080)
     Default(直连)
 
+  启动项 - 加入开机自动启动
+
 -
