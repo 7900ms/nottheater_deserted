@@ -14,4 +14,6 @@ https://www.douyu.com/directory/game/FTG
 
 BiliMac 不保证能看斗鱼直播
 
+10.11.5 自带 Safari 9.1.1 不支持 mama2 , 且不能降级
+
 -
