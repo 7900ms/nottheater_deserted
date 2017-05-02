@@ -6,6 +6,9 @@ https://github.com/yichengchen/ShadowsocksX-R/issues/6
 
 10.12(不推荐)
 16 Aug 2016
+macOS Sierra (version 10.12)
+Sierra 32位模式运行不支持。办法
+http://bbs.feng.com/forum.php?mod=viewthread&tid=10644836&mobile=2
 
 10.2.1(不推荐)
 28 Mar 2016
